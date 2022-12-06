@@ -14,7 +14,7 @@
     "cric-live": "^1.0.19",
     "cric-live-json": "^1.0.5",
     "cricapi": "^1.2.9",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "livescores": "^1.0.3",
     "socket.io": "^2.2.0"
   }
